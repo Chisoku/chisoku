@@ -20,6 +20,18 @@
 
 ---
 
+### 💼 Experience
+
+**🔬 Research Assistant** · *Hanoi University of Civil Engineering* — Full-time
+`Mar 2026 – Present` · Hanoi Capital Region (Hybrid)
+> Conducting AI research with a focus on Machine Learning / Deep Learning and Computer Vision.
+
+**🌐 Web Developer | Automation** · *Quantum IQ Consulting* — Freelance
+`Jul 2025 – Present` · Remote
+> Building web applications and automation solutions for clients.
+
+---
+
 ### 🛠️ Tech Stack
 
 **AI / Machine Learning**
