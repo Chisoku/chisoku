@@ -59,8 +59,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chisoku&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Chi's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisoku&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+  <a href="https://github.com/chisoku">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=chisoku&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&v=2" alt="Chi's GitHub stats"/>
+  </a>
+  <a href="https://github.com/chisoku">
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chisoku&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&v=2" alt="Top languages"/>
+  </a>
 </p>
 
 <p align="center">
