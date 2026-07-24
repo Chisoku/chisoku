@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🔬 AI Research Assistant @ HUCE &nbsp;•&nbsp; 🎓 M.Sc. Computer Science @ HUST &nbsp;•&nbsp; 📍 Hanoi, Vietnam
+  🔬 AI Research Assistant @ HUCE &nbsp;•&nbsp; 🌐 Web Developer @ Quantum IQ &nbsp;•&nbsp; 🎓 M.Sc. Computer Science @ HUST &nbsp;•&nbsp; 📍 Hanoi, Vietnam
 </p>
 
 ---
@@ -17,18 +17,6 @@
 - 🌐 I also build for the web — I enjoy full-stack **Web Development** alongside my research
 - 🌱 Always learning: turning research ideas into working, real-world applications
 - 💬 Ask me about **deep learning, computer vision, or web dev**
-
----
-
-### 💼 Experience
-
-**🔬 Research Assistant** · *Hanoi University of Civil Engineering* — Full-time
-`Mar 2026 – Present` · Hanoi Capital Region (Hybrid)
-> Conducting AI research with a focus on Machine Learning / Deep Learning and Computer Vision.
-
-**🌐 Web Developer | Automation** · *Quantum IQ Consulting* — Freelance
-`Jul 2025 – Present` · Remote
-> Building web applications and automation solutions for clients.
 
 ---
 
