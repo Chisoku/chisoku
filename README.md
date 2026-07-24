@@ -56,20 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/chisoku">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chisoku&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&v=2" alt="Top languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chisoku&theme=radical&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 <p align="center">
   <em>“Turning research into things that work.” 🌳</em>
 </p>
