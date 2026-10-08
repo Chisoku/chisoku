@@ -16,7 +16,6 @@
 - 🎓 Pursuing my **M.Sc. in Computer Science** at Hanoi University of Science and Technology (HUST)
 - 🌐 I also build for the web — I enjoy full-stack **Web Development** alongside my research
 - 🌱 Always learning: turning research ideas into working, real-world applications
-- 💬 Ask me about **deep learning, computer vision, or web dev**
 
 ---
 
