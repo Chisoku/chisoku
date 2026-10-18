@@ -15,7 +15,6 @@
 - 🔭 I'm an **AI Research Assistant** focused on **Machine Learning / Deep Learning** and **Computer Vision**
 - 🎓 Pursuing my **M.Sc. in Computer Science** at Hanoi University of Science and Technology (HUST)
 - 🌐 I also build for the web — I enjoy full-stack **Web Development** alongside my research
-- 🌱 Always learning: turning research ideas into working, real-world applications
 
 ---
 
