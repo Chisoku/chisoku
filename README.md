@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🔬 AI Research Assistant @ HUCE &nbsp;•&nbsp; 🌐 Web Developer @ Quantum IQ &nbsp;•&nbsp; 🎓 M.Sc. Computer Science @ HUST &nbsp;•&nbsp; 📍 Hanoi, Vietnam
+  🔬 AI Research Assistant @ HUCE &nbsp;•&nbsp; 🌐 Web Developer @ Quantum IQ &nbsp;•&nbsp; 🎓 B.Sc. Computer Science @ HUCE &nbsp;•&nbsp; 📍 Hanoi, Vietnam
 </p>
 
 ---
