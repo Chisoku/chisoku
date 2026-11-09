@@ -49,6 +49,8 @@
 
 ### 📚 Publications
 
+- **Tạp chí Xây dựng (Journal of Construction), No. 08/2026** — Hanoi University of Civil Engineering.
+  [Read here »](https://tapchixaydung.vn/tap-chi-xay-dung-so-08-2026-20201224000040343.html#page/272)
 - **Tạp chí Xây dựng (Journal of Construction), No. 12/2025** — Hanoi University of Civil Engineering.
   [Read here »](https://tapchixaydung.vn/tap-chi-xay-dung-so-12-2025-20201224000035393.html)
 
